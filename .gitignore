@@ -1,0 +1,53 @@
+# ==============================================================================
+# .gitignore — Pipeline de KDD e Modelagem Educacional (SBIE 2026)
+# ==============================================================================
+
+# Ambientes Virtuais Python
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache e Compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints e Temporários
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Pasta de Saídas do Pipeline (gerada dinamicamente pelos cadernos 05 a 08)
+dados_output/
+
+# Arquivos Intermediários Gerados pela Execução (preserva apenas os 00_*.parquet de entrada)
+03_inscricoes_tratadas.parquet
+04_resultados_tratados.parquet
+matriz_analitica_kdd_final.parquet
+matriz_rota_b_clusterizada.parquet
+matriz_rota_b_clusterizada.csv
+matriz_rota_a_clusterizada_final.csv
+eda_01_*.csv
+eda_02_*.csv
+Relatorio_*.txt
+Relatorio_*.pdf
+
+# Arquivos Geoespaciais e Malhas Derivadas Locais
+*.gpkg
+*.geoparquet
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos Temporários de Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp

@@ -1,0 +1,2183 @@
+{
+ "origem": "Vocabulario institucional e frequencias agregadas; nenhum registro individual.",
+ "cursos": [
+  {
+   "codigo": "FNBPSP231_2023_T1",
+   "nome": "Capacitação em Noções Básicas de Primeiros Socorros - PRESENCIAL - 2023",
+   "carga_horaria": 5,
+   "peso": 277
+  },
+  {
+   "codigo": "FPMJPP241_2024_T1",
+   "nome": "Formação dos Profissionais do Magistério - Jornada de Planejamento Pedagógico",
+   "carga_horaria": 9,
+   "peso": 141
+  },
+  {
+   "codigo": "FNBPSP241_2024_T1",
+   "nome": "Noções Básicas de Primeiros Socorros/Presencial - Projeto Juntos - 2024",
+   "carga_horaria": 5,
+   "peso": 138
+  },
+  {
+   "codigo": "LETRAC241_2024_T1",
+   "nome": "Letramento Racial - 2024 - Turma 1",
+   "carga_horaria": 120,
+   "peso": 116
+  },
+  {
+   "codigo": "FNBPS241_2024_T1",
+   "nome": "Noções Básicas de Primeiros Socorros/EAD - 2024 - Turma 1",
+   "carga_horaria": 60,
+   "peso": 89
+  },
+  {
+   "codigo": "FNBPS231_2023_T1",
+   "nome": "Capacitação em Noções Básicas de Primeiros Socorros - EAD - Turma 1 - 2023",
+   "carga_horaria": 60,
+   "peso": 87
+  },
+  {
+   "codigo": "FPM251_2025_T1",
+   "nome": "PROF - Formação dos Profissionais do Magistério - 1º Encontro",
+   "carga_horaria": 3,
+   "peso": 71
+  },
+  {
+   "codigo": "FPM241_2024_T1",
+   "nome": "FPM - Formação dos Profissionais do Magistério",
+   "carga_horaria": 15,
+   "peso": 68
+  },
+  {
+   "codigo": "RAIZES241_2024_T1",
+   "nome": "Raízes - Educação das Relações Étnico-raciais - Turma 1 - 2024",
+   "carga_horaria": 120,
+   "peso": 66
+  },
+  {
+   "codigo": "FIPROTI251_2025_T1",
+   "nome": "EQIM_SEME_PRME_EMTI - Formação Inicial do Modelo do Programa Capixaba de Fomento à Implementação de Escolas Municipais de Ensino Fundamental em Tempo Integral - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 60
+  },
+  {
+   "codigo": "FPEI241_2024_T1",
+   "nome": "Formação para Professores Da Educação Infantil - Grupos II E III – 2024 – Turma 1",
+   "carga_horaria": 60,
+   "peso": 60
+  },
+  {
+   "codigo": "FNEMA_T1",
+   "nome": "Novo Ensino Médio - Aprofundamentos - Turma 1 - 2022",
+   "carga_horaria": 80,
+   "peso": 58
+  },
+  {
+   "codigo": "FPM253_2025_T3",
+   "nome": "Servi_Edu_ES - 3° Encontro de Formação dos Profissionais do Magistério - 2025 - Turma 3",
+   "carga_horaria": 3,
+   "peso": 56
+  },
+  {
+   "codigo": "FNBPS242_2024_T2",
+   "nome": "Noções Básicas de Primeiros Socorros/EAD - Turma 2",
+   "carga_horaria": 60,
+   "peso": 51
+  },
+  {
+   "codigo": "FPAESA241_2024_T1",
+   "nome": "Formação do Material Didático da Coleção PAES para Professores Alfabetizadores do 1° e 2° anos do Ensino Fundamental",
+   "carga_horaria": 80,
+   "peso": 51
+  },
+  {
+   "codigo": "CUIDAR251_2025_T1",
+   "nome": "Cuid - Formação para Profissional de Apoio Escolar (Cuidador) - Turma 1 - 2025                                                                                                                 ",
+   "carga_horaria": 80,
+   "peso": 51
+  },
+  {
+   "codigo": "FPM252_2025_T2",
+   "nome": "Servi_Edu_ES - 2° Encontro de Formação dos Profissionais do Magistério - 2025 - Turma 1",
+   "carga_horaria": 3,
+   "peso": 49
+  },
+  {
+   "codigo": "FCA251_2025_T1",
+   "nome": "PEDA_PROF_TECFOR - Formação Compromisso com a Alfabetização - 2025 - Turma 1",
+   "carga_horaria": 60,
+   "peso": 49
+  },
+  {
+   "codigo": "FOPAEC241_2024_T1  ",
+   "nome": "Formação De Profissionais De Apoio Escolar (Cuidadores) - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 46
+  },
+  {
+   "codigo": "FNBPSP251_2025_T1",
+   "nome": "Noções Básicas de Primeiros Socorros/Presencial - Projeto Juntos - 2025",
+   "carga_horaria": 5,
+   "peso": 44
+  },
+  {
+   "codigo": "FMA_T1",
+   "nome": "Formação de Alfabetizadores para cursista - PAES - Turma 1 - 2022",
+   "carga_horaria": 21,
+   "peso": 41
+  },
+  {
+   "codigo": "FIMPETI241_2024_T1",
+   "nome": "Formação Inicial do Modelo Pedagógico da Educação em Tempo Integral - Estadual - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 40
+  },
+  {
+   "codigo": "FAEP251_2025_T1",
+   "nome": "Formação Avaliação Educacional: Apropriação Dos Resultados Das Avaliações Externas Para Professores Das Redes Municipais De Ensino - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 40
+  },
+  {
+   "codigo": "ICESEI_22",
+   "nome": "Implementação do Currículo na Educação Infantil - Turma 1 - 2022",
+   "carga_horaria": 99,
+   "peso": 39
+  },
+  {
+   "codigo": "EIPAES231_2023_T1",
+   "nome": "Formação da Educação Infantil do PAES - Cursistas - Turma 1 - 2023",
+   "carga_horaria": 40,
+   "peso": 38
+  },
+  {
+   "codigo": "EMES241_2024_T1",
+   "nome": "Estratégias Metodológicas para Criar Eletivas de Sucesso - 2024 - Turma 1",
+   "carga_horaria": 20,
+   "peso": 38
+  },
+  {
+   "codigo": "CEPGDR231_2023_T1",
+   "nome": "CONSELHOS DE ESCOLA - POR UMA GESTÃO DEMOCRÁTICA EM REDE - TURMA 1 - 2023",
+   "carga_horaria": 40,
+   "peso": 37
+  },
+  {
+   "codigo": "FSE22_T3",
+   "nome": "Formação Socioemocional - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 36
+  },
+  {
+   "codigo": "FPAESA251_2025_T1",
+   "nome": "Formação do Material Didático da Coleção PAES para Professores Alfabetizadores do 1° e 2° anos do Ensino Fundamental - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 34
+  },
+  {
+   "codigo": "CANVA251_2025_T1",
+   "nome": "SERV_EST - SERV MUN - Canva para Educação: Comunicação Visual e Criatividade para Professores - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 33
+  },
+  {
+   "codigo": "RAIZES231_2023_T1",
+   "nome": "Raízes - Educação das Relações Étnico-raciais - Turma 1 - 2023",
+   "carga_horaria": 120,
+   "peso": 32
+  },
+  {
+   "codigo": "RAIZES-22",
+   "nome": "Raízes: Educação das Relações Étnico-Raciais - Turma 1 - 2022",
+   "carga_horaria": 120,
+   "peso": 32
+  },
+  {
+   "codigo": "EMES221_2022_T1",
+   "nome": "Estratégias Metodológicas para criar Eletivas de Sucesso - Turma 1 - 2022",
+   "carga_horaria": 20,
+   "peso": 31
+  },
+  {
+   "codigo": "FCCEB251_2025_T1",
+   "nome": "PROF_PEDA_DIRE_CASF_SUPER_CP_TEC PEDAG_PCA_COORDE - Educação Digital e Midiática: Conhecendo o Currículo da Computação na Educação Básica - 2025 - Turma 1",
+   "carga_horaria": 21,
+   "peso": 31
+  },
+  {
+   "codigo": "FIPROTI241_2024_T1",
+   "nome": "Formação Inicial do Modelo do Programa Capixaba de Fomento à Implementação de Escolas Municipais de Ensino Fundamental em Tempo Integral - Municipal - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 30
+  },
+  {
+   "codigo": "FAEG251_2025_T1",
+   "nome": "PEDA_DIR - Formação Avaliação Educacional: Apropriação Dos Resultados Das Avaliações Externas Para Gestores Escolares Das Redes Municipais De Ensino - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 30
+  },
+  {
+   "codigo": "FORGM231_2023_T1",
+   "nome": "Formação em Gestão por Mentoria - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 30
+  },
+  {
+   "codigo": "FORPRAI231_2023_T1",
+   "nome": "Formação de Fortalecimento da Prática Docente nos anos iniciais - Turma 1 - 2023",
+   "carga_horaria": 40,
+   "peso": 30
+  },
+  {
+   "codigo": "FOPEF241_2024_T1",
+   "nome": "Programa Escola do Futuro: Nos Caminhos da Cultura Digital e da Inovação Educacional - 2024 - Turma 1",
+   "carga_horaria": 30,
+   "peso": 30
+  },
+  {
+   "codigo": "FPPMDC251_2025_T1",
+   "nome": "PED_TEC_PROF - Formação Pedagógica para Professores dos Anos Iniciais Ensino Fundamental na utilização do Material Didático Complementar da Coleção do Pacto pela Aprendizagem no Espírito Santo (caderno do 3º ano) no ano de 2025 - 2025 - Turma 1",
+   "carga_horaria": 60,
+   "peso": 29
+  },
+  {
+   "codigo": "FIPROTI252_2025_T2",
+   "nome": "EQIM_SEME_PRME_EMTI - Formação Inicial do Modelo do Programa Capixaba de Fomento à Implementação de Escolas Municipais de Ensino Fundamental em Tempo Integral - 2025 - Turma 2",
+   "carga_horaria": 81,
+   "peso": 29
+  },
+  {
+   "codigo": "EMES231_2023_T1",
+   "nome": "Estratégias Metodológicas para Criar Eletivas de Sucesso - Rede Estadual e Municipal - Turma 1 - 2023",
+   "carga_horaria": 20,
+   "peso": 29
+  },
+  {
+   "codigo": "FMATAI251_2025_T1",
+   "nome": "PROF_PED - Matemática para os Anos Iniciais - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 29
+  },
+  {
+   "codigo": "AEPG241_2024_T1",
+   "nome": "Avaliação Educacional: Um Panorama Geral",
+   "carga_horaria": 101,
+   "peso": 28
+  },
+  {
+   "codigo": "FOMAPI241_2024_T1",
+   "nome": "Na Trilha do Futuro: Metodologias Ativas para Professores Inovadores",
+   "carga_horaria": 60,
+   "peso": 28
+  },
+  {
+   "codigo": "FEESPA251_2025_T1",
+   "nome": "PROF_EE_OUTROS_EE - Formação da Educação Especial na Perspectiva Inclusiva - Práticas Pedagógicas Inclusivas e Acessibilidade Curricular - 2025 - Turma 1",
+   "carga_horaria": 30,
+   "peso": 27
+  },
+  {
+   "codigo": "CUIDAREST2",
+   "nome": "Formação para Cuidadores das Escolas das Redes Estadual e Municipais do Espírito Santo - CuidarES - Turma 1 - 2022",
+   "carga_horaria": 40,
+   "peso": 27
+  },
+  {
+   "codigo": "FIMPETI_E_2022_T4",
+   "nome": "FORMAÇÃO INICIAL DO MODELO PEDAGÓGICO DA EDUCAÇÃO EM TEMPO INTEGRAL – ESTADUAL - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 27
+  },
+  {
+   "codigo": "RAIZES251_2025_T1",
+   "nome": "DIR_COOR_PEDA - Formação Raízes: Educação das Relações Étnico-Raciais - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 26
+  },
+  {
+   "codigo": "EEPEI251_2025_T1",
+   "nome": "PROF_CP_PED_COORD_GEST - Formação em Educação Especial na Perspectiva da Educação Inclusiva - Módulo 1 - 2025 - Turma 1",
+   "carga_horaria": 50,
+   "peso": 26
+  },
+  {
+   "codigo": "FEESPDS251_2025_T1",
+   "nome": "PROF_EE_OUTROS_EE - Formação da Educação Especial na Perspectiva Inclusiva- Deficiências Sensoriais - Auditiva e Visual - 2025 - Turma 1",
+   "carga_horaria": 30,
+   "peso": 25
+  },
+  {
+   "codigo": "MAKER231_2023_T1",
+   "nome": "Formação Ensino Maker - Turma 1 - 2023",
+   "carga_horaria": 60,
+   "peso": 25
+  },
+  {
+   "codigo": "FGEMER251_2025_T1",
+   "nome": "PEDA_DIR_TECFOR_PROF - Formação de Gestores Escolares Municipais para a Equidade Racial - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 25
+  },
+  {
+   "codigo": "FPAESM241_2024_T1",
+   "nome": "Formação do Material Didático da Coleção PAES do 4° ano de Matemática do Ensino Fundamental",
+   "carga_horaria": 80,
+   "peso": 24
+  },
+  {
+   "codigo": "PROIA251_2025_T1",
+   "nome": "Formação do Programa de Interpretação, Produção e Correção de Textos por Inteligência Artificial  Plataforma Letrus- 2025 - Turma 1 ",
+   "carga_horaria": 10,
+   "peso": 24
+  },
+  {
+   "codigo": "PROVID231_2023_T1",
+   "nome": "Formação em Produção de Videoaulas - Turma 1 - 2023",
+   "carga_horaria": 20,
+   "peso": 24
+  },
+  {
+   "codigo": "FORELP253_2025_T3",
+   "nome": "PROF_LP - Formação de Recomposição das Aprendizagens em Língua Portuguesa - Módulo 3 -  2025 - Turma 3",
+   "carga_horaria": 9,
+   "peso": 23
+  },
+  {
+   "codigo": "FPVPSE231_2023_T1",
+   "nome": "PROJETO DE VIDA DO PROGRAMA SUCESSO ESCOLAR - Turma 1 - 2023",
+   "carga_horaria": 42,
+   "peso": 23
+  },
+  {
+   "codigo": "FNBPS_221_2022_T1",
+   "nome": "Formação Noções Básicas em Primeiros Socorros - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 23
+  },
+  {
+   "codigo": "FIMPETI231_2023_T1",
+   "nome": "FORMAÇÃO INICIAL DO MODELO PEDAGÓGICO DA EDUCAÇÃO EM TEMPO INTEGRAL - REDE ESTADUAL - TURMA 1 - 2023",
+   "carga_horaria": 60,
+   "peso": 22
+  },
+  {
+   "codigo": "FOPEFP251_2025_T1",
+   "nome": "PROF_PEDA - PROGRAMA ESCOLA DO FUTURO: NOS CAMINHOS DA CULTURA DIGITAL E DA INOVAÇÃO EDUCACIONAL - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 21
+  },
+  {
+   "codigo": "FORELP251_2025_T1",
+   "nome": "PROF_LP - Formação de Recomposição das Aprendizagens em Língua Portuguesa- Módulo I - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 21
+  },
+  {
+   "codigo": "LIFOREC241_2024_T1",
+   "nome": "2ª Formação da Trilha de Diretores das Redes Municipais: Liderança Inspiradora: Fortalecendo a Relação Escola-Comunidade",
+   "carga_horaria": 80,
+   "peso": 21
+  },
+  {
+   "codigo": "ERER231_2023_T1",
+   "nome": "Formação Educação das Relações Étnico-Raciais e Modalidades Indígena e Quilombola - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 21
+  },
+  {
+   "codigo": "FORGEPM231_2023_T1",
+   "nome": "Formação Gestão Pedagógica - Redes Municipais - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 21
+  },
+  {
+   "codigo": "FODIGE251_2025_T1",
+   "nome": "PROF_PED - Formação Dimensões da Gestão Escolar - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 21
+  },
+  {
+   "codigo": "FOGAVRA241_2024_T1",
+   "nome": "Formação em Gestão Administrativa voltada para Resultados de Aprendizagem - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 21
+  },
+  {
+   "codigo": "FIPROTI231_2023_T1",
+   "nome": "PROETI - FORMAÇÃO INICIAL DO MODELO PEDAGÓGICO DA EDUCAÇÃO EM TEMPO INTEGRAL - REDE MUNICIPAL - TURMA 1 - 2023",
+   "carga_horaria": 60,
+   "peso": 20
+  },
+  {
+   "codigo": "FPEI251_2025_T1",
+   "nome": "PRO_PED - Formação para Professores Da Educação Infantil - Grupos II e III – 2025 – Turma 1",
+   "carga_horaria": 60,
+   "peso": 20
+  },
+  {
+   "codigo": "LITDOP241_2024_T1",
+   "nome": "1ª Formação da Trilha de Diretores das Redes Municipais: Liderança Educacional: Transformando Desafios em Oportunidades Pedagógicas",
+   "carga_horaria": 80,
+   "peso": 20
+  },
+  {
+   "codigo": "SEEPEI251_2025_T1",
+   "nome": "PROF_AEE _NEAPIEs - II SEMINÁRIO DE EDUCAÇÃO ESPECIAL NA PERSPECTIVA INCLUSIVA ",
+   "carga_horaria": 16,
+   "peso": 20
+  },
+  {
+   "codigo": "FFC241_2024_T1",
+   "nome": "Formação Fiscalização de Contratos",
+   "carga_horaria": 19,
+   "peso": 19
+  },
+  {
+   "codigo": "FEESPDI251_2025_T1",
+   "nome": "PROF_EE_OUTROS_EE - Formação da Educação Especial na Perspectiva Inclusiva- Deficiência Intelectual - 2025 - Turma 1",
+   "carga_horaria": 31,
+   "peso": 19
+  },
+  {
+   "codigo": "ERER_22",
+   "nome": "Educação das Relações Étnico-Raciais e Modalidades Indígena e Quilombola - Turma 1 - 2022",
+   "carga_horaria": 80,
+   "peso": 19
+  },
+  {
+   "codigo": "FORDIRM231_2023_T1",
+   "nome": "FORMAÇÃO INICIAL DE DIRETORES - REDE MUNICIPAL - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 18
+  },
+  {
+   "codigo": "FSEES252_2025_T2",
+   "nome": "SECRET - Formação para Secretario Escolar - 2025 - Turma 2",
+   "carga_horaria": 120,
+   "peso": 18
+  },
+  {
+   "codigo": "FORGM241_2024_T1",
+   "nome": "Formação em Gestão Escolar por Mentoria - 2024",
+   "carga_horaria": 80,
+   "peso": 18
+  },
+  {
+   "codigo": "INREDE231_2023_T1",
+   "nome": "INTERDISCIPLINARIDADE NA REDE - TURMA 1 - 2023",
+   "carga_horaria": 20,
+   "peso": 18
+  },
+  {
+   "codigo": "FLIP241_2024_T1",
+   "nome": "Formação em Liderança e Protagonismo –  2024 - Turma 1",
+   "carga_horaria": 40,
+   "peso": 18
+  },
+  {
+   "codigo": "FIMPETI251_2025_T1",
+   "nome": "PROF_COOD - Formação Inicial do Modelo Pedagógico da Educação em Tempo Integral - Estadual - 2025 - Turma 1 (PROFESSOR)",
+   "carga_horaria": 10,
+   "peso": 18
+  },
+  {
+   "codigo": "FEESPAS251_2025_T1",
+   "nome": "PROF_EE_OUTROS_EE - Formação da Educação Especial na Perspectiva Inclusiva- Autismo/Altas habilidades e/ou Superdotação - 2025 - Turma 1",
+   "carga_horaria": 29,
+   "peso": 18
+  },
+  {
+   "codigo": "PRAIN231_2023_T1",
+   "nome": "PRÁTICAS INVESTIGATIVAS - TURMA 1 - 2023",
+   "carga_horaria": 21,
+   "peso": 17
+  },
+  {
+   "codigo": "PAPAIGP241_2024_T1",
+   "nome": "O Papel do Pedagogo dos Anos Iniciais na Gestão Pedagógica - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 17
+  },
+  {
+   "codigo": "FOREMA253_2025_T3",
+   "nome": "PROF_MAT - Formação de Recomposição das Aprendizagens em Matemática- Módulo 3 -  2025  - Turma 3",
+   "carga_horaria": 10,
+   "peso": 17
+  },
+  {
+   "codigo": "LETRAC251_2025_T1",
+   "nome": "Letramento Racial - 2025 - Turma 1",
+   "carga_horaria": 9,
+   "peso": 17
+  },
+  {
+   "codigo": "FIPROTI242_2024_T2",
+   "nome": "Formação Inicial do Modelo do Programa Capixaba de Fomento à Implementação de Escolas Municipais de Ensino Fundamental em Tempo Integral - Municipal - 2024 -Turma 2",
+   "carga_horaria": 80,
+   "peso": 17
+  },
+  {
+   "codigo": "LIOEAFE241_2024_T1",
+   "nome": "3ª Formação da Trilha de Diretores das Redes Municipais: Liderança Organizacional: Estratégias Administrativas e Financeiras na Educação",
+   "carga_horaria": 80,
+   "peso": 17
+  },
+  {
+   "codigo": "FEDUI251_2025_T1",
+   "nome": "  Formação de Educação Escolar Indígena - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 17
+  },
+  {
+   "codigo": "FOCELIN241_2024_T1",
+   "nome": "Linguagens e suas Tecnologias - Formação do Currículo do Espírito Santo",
+   "carga_horaria": 100,
+   "peso": 16
+  },
+  {
+   "codigo": "FOGPRCM231_2023_T1",
+   "nome": "Formação Gestão de Pessoas e Relacionamento com a Comunidade - Redes Municipais - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 16
+  },
+  {
+   "codigo": "FNBPS251_2025_T1",
+   "nome": "SERV_ES_MUN_IFILAN - Noções Básicas de Primeiros Socorros/EAD -  2025 - Turma 1_D2",
+   "carga_horaria": 10,
+   "peso": 16
+  },
+  {
+   "codigo": "FMAJG251_2025_T1",
+   "nome": "GEST_PROF_PEDA_COOR - FORMAÇÃO METODOLOGIAS ATIVAS: JIGSAW E GAMIFICAÇÃO - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 16
+  },
+  {
+   "codigo": "GPeRA_T2",
+   "nome": "Formação para Gestão Pedagógica e Recuperação da Aprendizagem - Turma 1 - 2022",
+   "carga_horaria": 40,
+   "peso": 16
+  },
+  {
+   "codigo": "FPPAERH241_2024_T1",
+   "nome": "Formação de Professores e Pedagogos para o Atendimento Educacional em Regime Hospitalar - 2024 - Turma 1",
+   "carga_horaria": 121,
+   "peso": 15
+  },
+  {
+   "codigo": "REIAEO251_2025_T1",
+   "nome": "PROF - Replicação da Oficina de Inteligência Artificial para Técnicas de Estudo - 2025 - Turma 1",
+   "carga_horaria": 4,
+   "peso": 15
+  },
+  {
+   "codigo": "FOGPERC241_2024_T1",
+   "nome": "Formação em Gestão de Pessoas e do Relacionamento com a Comunidade - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 15
+  },
+  {
+   "codigo": "ELETIVA_T2_2022",
+   "nome": "Eletiva - Turma 2 - 2022",
+   "carga_horaria": 20,
+   "peso": 15
+  },
+  {
+   "codigo": "FIPROTI232_2023_T2",
+   "nome": "FORMAÇÃO INICIAL DO MODELO DO PROGRAMA CAPIXABA DE FOMENTO À IMPLEMENTAÇÃO DE ESCOLAS MUNICIPAIS DE ENSINO FUNDAMENTAL EM TEMPO INTEGRAL - MUNICIPAL - TURMA 2 - 2023",
+   "carga_horaria": 60,
+   "peso": 15
+  },
+  {
+   "codigo": "FIERA251_2025_T1",
+   "nome": "PEDA - Formação de Indicadores Educacionais e Recomposição da Aprendizagem - 2025 - Turma 1",
+   "carga_horaria": 39,
+   "peso": 15
+  },
+  {
+   "codigo": "FIMPROETI_2",
+   "nome": "Formação Inicial do Modelo do Programa Capixaba de Fomento à Implementação de Escolas Municipais de Ensino Fundamental em Tempo Integral - Turma 2 - 2022",
+   "carga_horaria": 60,
+   "peso": 15
+  },
+  {
+   "codigo": "EPLEO231_2023_T1",
+   "nome": "ESTRATÉGIAS DE PLANEJAMENTO DE ESTUDO ORIENTADO - TURMA 1 - 2023",
+   "carga_horaria": 20,
+   "peso": 15
+  },
+  {
+   "codigo": "EPUD241_2024_T1",
+   "nome": "Formação em educação e prevenção ao uso de drogas - 2024 - Turma 1",
+   "carga_horaria": 40,
+   "peso": 15
+  },
+  {
+   "codigo": "AEAE241_2024_T1",
+   "nome": "Avaliação Educacional: Apropriação dos Resultados das Avaliações Externas - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 14
+  },
+  {
+   "codigo": "EDGES241_2024_T1",
+   "nome": "Educação, gênero e sexualidade",
+   "carga_horaria": 8,
+   "peso": 14
+  },
+  {
+   "codigo": "MAKER_2022_T1",
+   "nome": "Formação em Ensino Maker - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 14
+  },
+  {
+   "codigo": "RAIZPSE231_2023_T1",
+   "nome": "Formação Raízes - Programa Sucesso Escolar - Turma 1 - 2023",
+   "carga_horaria": 120,
+   "peso": 14
+  },
+  {
+   "codigo": "FORCEMP_LinguagensTec_2022_T2",
+   "nome": "Formação para o Novo Currículo do Espírito Santo para Professores de Linguagens e suas Tecnologias - Turma 1 - 2022",
+   "carga_horaria": 100,
+   "peso": 14
+  },
+  {
+   "codigo": "FOCECHS241_2024_T1",
+   "nome": "Ciências Humanas e Sociais Aplicadas - Formação do Currículo do Espírito Santo",
+   "carga_horaria": 101,
+   "peso": 14
+  },
+  {
+   "codigo": "FIMPROETI_2022_T1",
+   "nome": "Formação Inicial do Modelo Pedagógico da Educação em Tempo Integral - Municipal - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 13
+  },
+  {
+   "codigo": "FIMPETI_2",
+   "nome": "Formação Inicial do Modelo do Pedagógico da Educação em Tempo Integral - Turma 2 - 2022",
+   "carga_horaria": 61,
+   "peso": 13
+  },
+  {
+   "codigo": "FIMPETI232_2023_T2",
+   "nome": "FORMAÇÃO INICIAL DO MODELO PEDAGÓGICO DA EDUCAÇÃO EM TEMPO INTEGRAL - ESTADUAL - TURMA 2 - 2023",
+   "carga_horaria": 60,
+   "peso": 13
+  },
+  {
+   "codigo": "FOCECNT241_2024_T1",
+   "nome": "Ciências da Natureza e suas Tecnologias - Formação do Currículo do Espírito Santo",
+   "carga_horaria": 100,
+   "peso": 13
+  },
+  {
+   "codigo": "CUIDAR231_2023_T1",
+   "nome": "Formação para Cuidadores da Rede Estadual - Turma 01 - 2023",
+   "carga_horaria": 39,
+   "peso": 13
+  },
+  {
+   "codigo": "COORDT251_2025_T1",
+   "nome": "CT - Coordenador de Turno: Competências Essenciais - 2025 - Turma 1",
+   "carga_horaria": 20,
+   "peso": 13
+  },
+  {
+   "codigo": "FORGM251_2025_T1",
+   "nome": "DIRE - Formação em Gestão Escolar por Mentoria - 2025",
+   "carga_horaria": 60,
+   "peso": 13
+  },
+  {
+   "codigo": "PROFEAD223_2022_T3",
+   "nome": "Formação Professor EaD - Turma 3 - 2022",
+   "carga_horaria": 121,
+   "peso": 13
+  },
+  {
+   "codigo": "AAIEA251_2025_T1",
+   "nome": "PROF_PED - Avaliação da Aprendizagem: Instrumentos e Estratégias Avaliativas - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 13
+  },
+  {
+   "codigo": "PBLABP251_2025_T1",
+   "nome": "PROF - Formação Metodologias Ativas: ABP E PBL– 2025 – Turma 1",
+   "carga_horaria": 11,
+   "peso": 13
+  },
+  {
+   "codigo": "FORGEP231_2023_T1",
+   "nome": "Formação Gestão Pedagógica - Turma 1  - 2023",
+   "carga_horaria": 80,
+   "peso": 12
+  },
+  {
+   "codigo": "FIFTP241_2024_T1",
+   "nome": "Formação Itinerário de Formação Técnica e Profissional - 2024 - Turma 1",
+   "carga_horaria": 60,
+   "peso": 12
+  },
+  {
+   "codigo": "FEDUQ251_2025_T1",
+   "nome": "Formação Educação Escolar Quilombola – 2025 – Turma 1",
+   "carga_horaria": 10,
+   "peso": 12
+  },
+  {
+   "codigo": "FPEDC251_2025_T1",
+   "nome": "Formação para Professores da Educação do Campo – 2025 – Turma 1",
+   "carga_horaria": 10,
+   "peso": 12
+  },
+  {
+   "codigo": "FIFTP221_2022_T2",
+   "nome": "Itinerário de Formação Técnica e Profissional - Turma 2 - 2022",
+   "carga_horaria": 60,
+   "peso": 12
+  },
+  {
+   "codigo": "FSEPSE231_2023_T1",
+   "nome": "Formação Socioemocional - Programa Sucesso Escolar - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 12
+  },
+  {
+   "codigo": "FORELP252_2025_T2",
+   "nome": "PROF_LP - Formação de Recomposição das Aprendizagens em Língua Portuguesa- Módulo 2- 2025 - Turma 2  ",
+   "carga_horaria": 7,
+   "peso": 12
+  },
+  {
+   "codigo": "Fpv_PSE_2022_T1",
+   "nome": "Formação Projeto de Vida para o Programa Sucesso Escolar - Turma 1 - 2022",
+   "carga_horaria": 42,
+   "peso": 12
+  },
+  {
+   "codigo": "FORECP251_2025_T1",
+   "nome": "CP_PED - Formação de Recomposição das Aprendizagens para Coordenadores Pedagógicos - Módulo I  - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 12
+  },
+  {
+   "codigo": "FOREMA251_2025_T1",
+   "nome": "PROF_MAT - Formação de Recomposição das Aprendizagens em Matemática- Módulo I - 2025 - TURMA 1 ",
+   "carga_horaria": 7,
+   "peso": 12
+  },
+  {
+   "codigo": "CEPGDR241_2024_T1",
+   "nome": "Formação Conselho de Escola - por uma gestão democrática em Rede",
+   "carga_horaria": 41,
+   "peso": 12
+  },
+  {
+   "codigo": "FPAESM251_2025_T1",
+   "nome": "PROF_TCDG_PAES_ARC - Formação do Material Didático da Coleção Paes do 4º ano de Matemática do Ensino Fundamental - 2025 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 12
+  },
+  {
+   "codigo": "FOPEFP252_2025_T2",
+   "nome": "PROF_PEDA - PROGRAMA ESCOLA DO FUTURO: NOS CAMINHOS DA CULTURA DIGITAL E DA INOVAÇÃO EDUCACIONAL - 2025 - Turma 2",
+   "carga_horaria": 11,
+   "peso": 11
+  },
+  {
+   "codigo": "FOGEPIE241_2024_T1",
+   "nome": "Formação de Gestão Escolar a Partir de Indicadores Educacionais - 2024 - Turma 1",
+   "carga_horaria": 79,
+   "peso": 11
+  },
+  {
+   "codigo": "FOPEFG251_2025_T1",
+   "nome": "GEST_PADM_EF - PROGRAMA ESCOLA DO FUTURO: GESTÃO E INOVAÇÃO - 2025 - Turma 1",
+   "carga_horaria": 11,
+   "peso": 11
+  },
+  {
+   "codigo": "FIMPETI252_2025_T2",
+   "nome": "CP_DIR__CASF - Formação Inicial do Modelo Pedagógico da Educação em Tempo Integral - FIMPETI GESTORES - 2025 - Turma 1",
+   "carga_horaria": 11,
+   "peso": 11
+  },
+  {
+   "codigo": "FORGM221_2022_T1",
+   "nome": "Formação em Gestão Escolar por Mentoria - Turma 1 - 2022",
+   "carga_horaria": 81,
+   "peso": 11
+  },
+  {
+   "codigo": "FSEPSE241_2024_T1",
+   "nome": "Formação Socioemocional para o Programa Sucesso Escolar",
+   "carga_horaria": 80,
+   "peso": 11
+  },
+  {
+   "codigo": "FOREMA252_2025_T2",
+   "nome": "PROF_MAT - Formação de Recomposição das Aprendizagens em Matemática- Módulo 2 - 2025 - Turma 2 ",
+   "carga_horaria": 8,
+   "peso": 10
+  },
+  {
+   "codigo": "FOCELIN231_2023_T1",
+   "nome": "Formação para o Novo Currículo do Espírito Santo - Etapa Ensino Médio para Professores - Linguagens e suas Tecnologias - Turma 1 - 2023",
+   "carga_horaria": 100,
+   "peso": 10
+  },
+  {
+   "codigo": "SEEEPEI231_2023_T1",
+   "nome": "Dia 1 - I Seminário Estadual de Educação Especial na perspectiva da Educação Inclusiva do ES",
+   "carga_horaria": 8,
+   "peso": 10
+  },
+  {
+   "codigo": "FPMEJA252_2025_T2",
+   "nome": "Prof - Formação dos Profissionais do Magistério - EJA - 2º Encontro",
+   "carga_horaria": 2,
+   "peso": 10
+  },
+  {
+   "codigo": "EPLEO241_2024_T1",
+   "nome": "Estratégias para Planejamento de Estudo Orientado",
+   "carga_horaria": 20,
+   "peso": 10
+  },
+  {
+   "codigo": "FOCEMAT241_2024_T1",
+   "nome": "Matemática e suas Tecnologias - Formação do Currículo do Espírito Santo",
+   "carga_horaria": 102,
+   "peso": 10
+  },
+  {
+   "codigo": "PEDPCA_2022_T1",
+   "nome": "Os Pedagogos como Articuladores no Programa Fortalecimento da Aprendizagem - Turma 1 - 2022",
+   "carga_horaria": 80,
+   "peso": 10
+  },
+  {
+   "codigo": "FEO251_2025_T1",
+   "nome": "PROF - Formação Estudo Orientado - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 10
+  },
+  {
+   "codigo": "FBAE241_2024_T1",
+   "nome": "Formação Busca Ativa Escolar - 2024 - Turma 1",
+   "carga_horaria": 40,
+   "peso": 9
+  },
+  {
+   "codigo": "FAPV251_2025_T1",
+   "nome": "CP - Formação de Aprofundamento em Projeto de Vida - 2025 - Turma 1",
+   "carga_horaria": 7,
+   "peso": 9
+  },
+  {
+   "codigo": "FESDPAL251_2025_T1",
+   "nome": "PROF - Formação Explorando Sequências Didáticas a partir da leitura de obras literárias do Projeto Aventuras Literárias - 6º ao 9º ano - 2025 - Turma1",
+   "carga_horaria": 10,
+   "peso": 9
+  },
+  {
+   "codigo": "FIMPETI254_2025_T4",
+   "nome": "PROF_COOD - Formação Inicial do Modelo Pedagógico da Educação em Tempo Integral - 2025 - Turma 4 (PROFESSOR)",
+   "carga_horaria": 11,
+   "peso": 9
+  },
+  {
+   "codigo": "FOGPERC251_2025_T1",
+   "nome": "DIR_CP - Formação em Gestão de Pessoas e do Relacionamento com a Comunidade - 2025 - Turma 1",
+   "carga_horaria": 59,
+   "peso": 9
+  },
+  {
+   "codigo": "FIFTP_2022_T1",
+   "nome": "Itinerário de Formação Técnico e Profissional - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 9
+  },
+  {
+   "codigo": "FNEMA231_2023_T1",
+   "nome": "Formação Novo Ensino Médio – Aprofundamentos (FNEMA) - Turma 1 - 2023",
+   "carga_horaria": 81,
+   "peso": 9
+  },
+  {
+   "codigo": "FOGAVRA251_2025_T1",
+   "nome": "ASF - Formação em Gestão Administrativa voltada para Resultados de Aprendizagem - 2025 - Turma 1",
+   "carga_horaria": 61,
+   "peso": 9
+  },
+  {
+   "codigo": "RECHCNL251_2025_T1",
+   "nome": "PROF_CHCNL - Formação de Recomposição das Aprendizagens em Ciências Humanas , Ciências Naturais e Linguagens - Módulo I - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 9
+  },
+  {
+   "codigo": "FORGEI241_2024_T1",
+   "nome": "Formação em Gestão Escolar para a Inovação - 2024 - Turma 1",
+   "carga_horaria": 81,
+   "peso": 9
+  },
+  {
+   "codigo": "CELPAES251_2025_T1",
+   "nome": "PROF - A Concepção enunciativo-discursiva da linguagem nos cadernos da Coleção Paes Alfabetização – 1º e 2º anos - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 9
+  },
+  {
+   "codigo": "EO_T2_2022",
+   "nome": "Estudo Orientado - Turma 2 - 2022",
+   "carga_horaria": 40,
+   "peso": 8
+  },
+  {
+   "codigo": "RAIZPSE241_2024_T1",
+   "nome": "Formação Raízes - Programa Sucesso Escolar - 2024 - Turma 1",
+   "carga_horaria": 82,
+   "peso": 8
+  },
+  {
+   "codigo": "SEEEPEI232_2023_T2",
+   "nome": "Dia 2 - I Seminário Estadual de Educação Especial na perspectiva da Educação Inclusiva do ES",
+   "carga_horaria": 8,
+   "peso": 8
+  },
+  {
+   "codigo": "ForNiv_T1",
+   "nome": "Formação de Nivelamento - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 8
+  },
+  {
+   "codigo": "FOPAIE252_2025_T2",
+   "nome": "AIE - Formação Projeto Agente de Integração Escolar - 2025 - Turma 2",
+   "carga_horaria": 81,
+   "peso": 8
+  },
+  {
+   "codigo": "FORSIG251_2025_T1",
+   "nome": "SIG Aplicado ao Transporte Escolar - 2025 - Turma 1",
+   "carga_horaria": 60,
+   "peso": 8
+  },
+  {
+   "codigo": "FELET251_2025_T1",
+   "nome": "PROF - Formação Eletiva - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 8
+  },
+  {
+   "codigo": "EQEAD221_2022_T1",
+   "nome": "Formação Equipe EaD - Turma 1 - 2022",
+   "carga_horaria": 20,
+   "peso": 8
+  },
+  {
+   "codigo": "FOCECHS231_2023_T1",
+   "nome": "Formação para o Novo Currículo do Espírito Santo - Etapa Ensino Médio para Professores - Ciências Humanas e Sociais Aplicadas - Turma 1 - 2023",
+   "carga_horaria": 99,
+   "peso": 7
+  },
+  {
+   "codigo": "FOGPERC221_2022_T1",
+   "nome": "Trilha Formativa (Gestão de Pessoas e Relacionamento com a Comunidade) - Turma 1 - 2022",
+   "carga_horaria": 81,
+   "peso": 7
+  },
+  {
+   "codigo": "FOGPERA231_2023_T1",
+   "nome": "GESTÃO PEDAGÓGICA E RECUPERAÇÃO DA APRENDIZAGEM - TURMA 1 - 2023",
+   "carga_horaria": 28,
+   "peso": 7
+  },
+  {
+   "codigo": "FOVAP251_2025_T1",
+   "nome": "PED_PROF - Formação Avaliação da Aprendizagem: conceitos, perspectivas e tipos de avaliação - 2025 - Turma 1",
+   "carga_horaria": 20,
+   "peso": 7
+  },
+  {
+   "codigo": "FORGEP251_2025_T1",
+   "nome": "DIR_CP - Formação em Gestão Pedagógica – 2025 - Turma 1 ",
+   "carga_horaria": 58,
+   "peso": 7
+  },
+  {
+   "codigo": "APOIE241_2024_T1",
+   "nome": "Formação APOIE - Assistentes Sociais e Psicólogos na Educação - 2024",
+   "carga_horaria": 101,
+   "peso": 7
+  },
+  {
+   "codigo": "FAPPT251_2025_T1",
+   "nome": "PROF_SEDU - Formação APOIE: programas e projetos transversais da/na SEDU - 2025 - Turma 1",
+   "carga_horaria": 11,
+   "peso": 7
+  },
+  {
+   "codigo": "FOPAIE251_2025_T1",
+   "nome": "AIE - Formação Projeto Agente de Integração Escolar - 2025 - Turma 1",
+   "carga_horaria": 81,
+   "peso": 7
+  },
+  {
+   "codigo": "FORCEMP_CienciasHumSociais_2022_T2",
+   "nome": "Formação para o Novo Currículo do Espírito Santo para Professores de Ciências Humanas e Sociais Aplicadas - Turma 1 - 2022",
+   "carga_horaria": 100,
+   "peso": 7
+  },
+  {
+   "codigo": "RRE251_2025_T1",
+   "nome": "Redação de Relatos de Experiências - Práticas Exitosas do Proeti – 2025- Turma 1  ",
+   "carga_horaria": 20,
+   "peso": 7
+  },
+  {
+   "codigo": "CEPGDR251_2025_T1",
+   "nome": "Conselhos de Escola - Por uma Gestão Democrática em Rede - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 7
+  },
+  {
+   "codigo": "FORECP253_2025_T3",
+   "nome": "CP_PED - Formação de Recomposição das Aprendizagens para Coordenadores Pedagógicos - Módulo 3  - Turma 3 - 2025",
+   "carga_horaria": 8,
+   "peso": 7
+  },
+  {
+   "codigo": "FORSIG241_2024_T1",
+   "nome": "SIG Aplicado ao Transporte Escolar - Turma 1 - 2024",
+   "carga_horaria": 59,
+   "peso": 7
+  },
+  {
+   "codigo": "GEAFE251_2025_T1",
+   "nome": "DIR_CASF - Formação Gestão Administrativa e Financeira Escolar - 2025 - Turma 1",
+   "carga_horaria": 61,
+   "peso": 7
+  },
+  {
+   "codigo": "AEPG251_2025_T1",
+   "nome": "PROF - Avaliação Educacional: Um Panorama Geral - 2025 - Turma 1",
+   "carga_horaria": 21,
+   "peso": 6
+  },
+  {
+   "codigo": "FORGEP241_2024_T1",
+   "nome": "Formação Gestão Pedagógica - 2024 - Turma 1",
+   "carga_horaria": 79,
+   "peso": 6
+  },
+  {
+   "codigo": "FPMEJA241_2024_T1",
+   "nome": "Formação dos Profissionais do Magistério-EJA",
+   "carga_horaria": 14,
+   "peso": 6
+  },
+  {
+   "codigo": "FSEPSE251_2025_T1",
+   "nome": "PROF_PEDA_CP - Formação Socioemocional - Programa Sucesso Escolar - 2025 - Turma 1    ",
+   "carga_horaria": 10,
+   "peso": 6
+  },
+  {
+   "codigo": "FOGPERC252_2025_T2",
+   "nome": "DIR_CP - Formação em Gestão de Pessoas e do Relacionamento com a Comunidade - 2025 - Turma 2",
+   "carga_horaria": 40,
+   "peso": 6
+  },
+  {
+   "codigo": "FOPPI231_2023_T1",
+   "nome": "Formação para Profissionais Ingressantes - Turma 1 - 2023",
+   "carga_horaria": 101,
+   "peso": 6
+  },
+  {
+   "codigo": "FIPAIE242_2024_T2",
+   "nome": "Formação Inicial Projeto Agente de Integração Escolar - FIPAIE - Turma 3",
+   "carga_horaria": 40,
+   "peso": 6
+  },
+  {
+   "codigo": "FSEES251_2025_T1",
+   "nome": "SECRET - Formação para Secretário Escolar das Escolas Estaduais do Espírito Santo - 2025 - Turma 1",
+   "carga_horaria": 120,
+   "peso": 6
+  },
+  {
+   "codigo": "AGPERA231_2023_T1",
+   "nome": "APROFUNDAMENTO  PARA GESTÃO PEDAGÓGICA E RECUPERAÇÃO DA APRENDIZAGEM - TURMA 1 - 2023",
+   "carga_horaria": 32,
+   "peso": 6
+  },
+  {
+   "codigo": "FPMEJA251_2025_T1",
+   "nome": "PROF - Formação dos Profissionais do Magistério - EJA - 1º Encontro",
+   "carga_horaria": 2,
+   "peso": 6
+  },
+  {
+   "codigo": "FSCGC251_2025_T1",
+   "nome": "PCA_CP_SUPR_TECP_APOIE - Formação sobre Circuito de Gestão Capixaba: panorama geral - 2025- Turma 1",
+   "carga_horaria": 10,
+   "peso": 6
+  },
+  {
+   "codigo": "FAEEJA251_2025_T1",
+   "nome": "PROF - Formação em Avaliação Educacional da Educação de Jovens e Adultos - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 6
+  },
+  {
+   "codigo": "FCIEJA252_2025_T2",
+   "nome": "PED_PROF_SUPR_DIR_CASF_CP - Formação Currículo Integrado na EJA - 2025 - Turma 2",
+   "carga_horaria": 10,
+   "peso": 6
+  },
+  {
+   "codigo": "FLMAMPC251_2025_T1",
+   "nome": "PROF_PED - Letramento Matemático: Abordagem da Matemática Conceitual e Algorítmica, e Pensamento Computacional no Caderno de Matemática do 4º Ano - 2025 - Turma 1",
+   "carga_horaria": 9,
+   "peso": 6
+  },
+  {
+   "codigo": "JCSEDU251_2025_T1",
+   "nome": "SUPERIN_SUPER_DIR_COORDPED - Formação CONEXÕES SEDU",
+   "carga_horaria": 11,
+   "peso": 6
+  },
+  {
+   "codigo": "PIPAT252_2025_T2",
+   "nome": "PROF_PEDA_CP_ DIR  - Formação do PIPAT - Projeto Integrador de Pesquisa e Articulação com o Território - 2025 - Turma 2",
+   "carga_horaria": 10,
+   "peso": 6
+  },
+  {
+   "codigo": "EGPPE_T1",
+   "nome": "Elaboração e Gerenciamento de Políticas e Projetos de Educação - Turma 1 - 2022",
+   "carga_horaria": 92,
+   "peso": 6
+  },
+  {
+   "codigo": "FACN251_2025_T1",
+   "nome": "Formação Aprofundamentos no CEEJA, NEEJA e atendimento \"in loco\"– 2025 – Turma 1",
+   "carga_horaria": 8,
+   "peso": 6
+  },
+  {
+   "codigo": "EPCHD251_2025_T1",
+   "nome": "PROF - ESTRATÉGIAS DE PLANEJAMENTO, CURRÍCULO, HABILIDADES E DESCRITORES",
+   "carga_horaria": 12,
+   "peso": 6
+  },
+  {
+   "codigo": "FCIEJA251_2025_T1",
+   "nome": "Formação Currículo Integrado na EJA - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 6
+  },
+  {
+   "codigo": "FPAESEM251_2025_T1",
+   "nome": "PROF_TP_PED - Formação Ciclo de Gestão do PAES - Equipes Municipais - 2025 - Turma 1",
+   "carga_horaria": 16,
+   "peso": 6
+  },
+  {
+   "codigo": "FORGEPI251_2025_T1",
+   "nome": "ASS_PEDA - Formação de Gestão Estratégica com Foco em Pessoas e Inovação - 2025 - Turma 1                                              ",
+   "carga_horaria": 28,
+   "peso": 6
+  },
+  {
+   "codigo": "PROFEAD231_2023_T1",
+   "nome": "FORMAÇÃO PROFESSOR EAD DA REDE ESTADUAL - TURMA 1 - 2023",
+   "carga_horaria": 121,
+   "peso": 5
+  },
+  {
+   "codigo": "FASE221_2022_T1",
+   "nome": "Formação para Agentes de Suporte educacional (ASE's) para ingressantes - Turma 1 - 2022",
+   "carga_horaria": 44,
+   "peso": 5
+  },
+  {
+   "codigo": "PV_T2_2022",
+   "nome": "Projeto de Vida - Turma 2 - 2022",
+   "carga_horaria": 39,
+   "peso": 5
+  },
+  {
+   "codigo": "EPUD251_2025_T1",
+   "nome": "PROF - Formação do Caderno Metodológico: Educação e Prevenção ao Uso de Drogas",
+   "carga_horaria": 11,
+   "peso": 5
+  },
+  {
+   "codigo": "FIPAIE241_2024_T1",
+   "nome": "Formação Inicial Projeto Agente de Integração Escolar - FIPAIE",
+   "carga_horaria": 39,
+   "peso": 5
+  },
+  {
+   "codigo": "FPEC251_2025_T1",
+   "nome": "PROF - Formação Práticas Experimentais de Ciências para o Ensino Fundamental - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 5
+  },
+  {
+   "codigo": "FORDIRE221_2022_T1",
+   "nome": "Formação Inicial de Diretores Escolares - Fordir Estadual - Turma 1 - 2022",
+   "carga_horaria": 79,
+   "peso": 5
+  },
+  {
+   "codigo": "FORDIRM241_2024_T1",
+   "nome": "Formação Inicial de Diretores - Rede Municipal - 2024 - Turma 1",
+   "carga_horaria": 80,
+   "peso": 5
+  },
+  {
+   "codigo": "FORDIRE231_2023_T1",
+   "nome": "Formação Inicial de Diretores Escolares - FORDIR Estadual - Turma 1 - 2023",
+   "carga_horaria": 80,
+   "peso": 5
+  },
+  {
+   "codigo": "Fse_SE_2022_T2",
+   "nome": "Formação Socioemocional - Programa Sucesso Escolar - Turma 1 - 2022",
+   "carga_horaria": 80,
+   "peso": 5
+  },
+  {
+   "codigo": "GEAFE_2022_T1",
+   "nome": "Formação Gestão Administrativa e Financeira Escolar – GEAFE - Turma 1 - 2022",
+   "carga_horaria": 81,
+   "peso": 5
+  },
+  {
+   "codigo": "FOGEPIE251_2025_T1",
+   "nome": "DIR_CP - Formação de Gestão Escolar a Partir de Indicadores Educacionais - 2025 - Turma 1",
+   "carga_horaria": 59,
+   "peso": 5
+  },
+  {
+   "codigo": "Forgep221_2022_T1",
+   "nome": "Trilha Formativa: Gestão Pedagógica - Turma 1 - 2022",
+   "carga_horaria": 79,
+   "peso": 5
+  },
+  {
+   "codigo": "AGPERA221_2022_T1",
+   "nome": "Aprofundamento da Gestão Pedagógica e Recuperação da Aprendizagem - Turma 1 - 2022",
+   "carga_horaria": 62,
+   "peso": 5
+  },
+  {
+   "codigo": "RAIZPSE251_2025_T1",
+   "nome": "PROF_PED_DIR_CP - Formação Raízes - Programa Sucesso Escolar - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 5
+  },
+  {
+   "codigo": "FEPV251_2025_T1",
+   "nome": "PROF - Formação Projeto de Vida para Professores de Ensino Fundamental Anos Finais - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 5
+  },
+  {
+   "codigo": "FOCECNT231_2023_T1",
+   "nome": "Formação para o Novo Currículo do Espírito Santo – Etapa Ensino Médio para Professores - Ciências da Natureza e suas Tecnologias - Turma 1 - 2023",
+   "carga_horaria": 100,
+   "peso": 5
+  },
+  {
+   "codigo": "FEPRI251_2025_T1",
+   "nome": "DIR_PEG - FORMAÇÃO EDUCAÇÃO EM PRISÕES - 2025 - Turma 1",
+   "carga_horaria": 35,
+   "peso": 5
+  },
+  {
+   "codigo": "WOMEI252_2025_T2",
+   "nome": "PCI_PED_PCA_SUP_TEC - 2º Workshop de Metodologias Inovadoras - 2025 - Turma 2",
+   "carga_horaria": 8,
+   "peso": 4
+  },
+  {
+   "codigo": "ADSMAT251_2025_T1",
+   "nome": "Análise de uma Sequência Didática do caderno de matemática do 4º ano, considerando as habilidades - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 4
+  },
+  {
+   "codigo": "ADSPAES251_2025_T1",
+   "nome": "PROF_PEDA - Formação Análise Detalhada de uma Sequência Didática - PAES Alfabetização 1º e 2º anos, considerando as habilidades - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 4
+  },
+  {
+   "codigo": "FIMPETI253_2025_T3",
+   "nome": "SUPER_TEC - Formação Inicial do Modelo Pedagógico da Educação em Tempo Integral - Estadual - 2025 - Turma 1 (SUPERVISORES)",
+   "carga_horaria": 8,
+   "peso": 4
+  },
+  {
+   "codigo": "OIGEPRO241_2024_T1",
+   "nome": "Oficinas dos Instrumentos de Gestão - PROETI",
+   "carga_horaria": 10,
+   "peso": 4
+  },
+  {
+   "codigo": "OFICMEF251_2025_T1",
+   "nome": "PROF - Oficina do Caderno Metodológico Tema Integrador: Educação Fiscal - 2025 - Turma 1",
+   "carga_horaria": 4,
+   "peso": 4
+  },
+  {
+   "codigo": "EQEAD231_2023_T1",
+   "nome": "Formação Equipe EaD da Rede Estadual - Turma 1 - 2023",
+   "carga_horaria": 18,
+   "peso": 4
+  },
+  {
+   "codigo": "FIEGETI242_2024_T2",
+   "nome": "Formação Inicial das equipes gestoras das novas Escolas de Tempo Integral 2025",
+   "carga_horaria": 16,
+   "peso": 4
+  },
+  {
+   "codigo": "LITDOPF241_2024_T1",
+   "nome": "Liderança Educacional: Transformando Desafios em Oportunidades Pedagógicas - Formadores",
+   "carga_horaria": 40,
+   "peso": 4
+  },
+  {
+   "codigo": "FAPOIES241_2024_T1",
+   "nome": "Formação APOIE e Políticas Educacionais Sedu/ES - 1º Ciclo",
+   "carga_horaria": 12,
+   "peso": 4
+  },
+  {
+   "codigo": "FAEIP251_2025_T1",
+   "nome": "SUP_DIR_CP_PED_PCA - Formação Avaliações Externas: Impactos na Educação – 2025 – Turma 1",
+   "carga_horaria": 10,
+   "peso": 4
+  },
+  {
+   "codigo": "WOMEI253_2025_T3",
+   "nome": "PCI_PED_PCA_SUP_TEC - 3º Workshop de Metodologias Inovadoras - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 4
+  },
+  {
+   "codigo": "PVMED251_2025_T1",
+   "nome": "PROF - Formação Projeto de Vida - Ensino Médio - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 4
+  },
+  {
+   "codigo": "FORCEMP_MatTec_2022_T2",
+   "nome": "Formação para o Novo Currículo do Espírito Santo para Professores de Matemática e suas Tecnologias - Turma 1 - 2022",
+   "carga_horaria": 97,
+   "peso": 4
+  },
+  {
+   "codigo": "FPEM251_2025_T1",
+   "nome": "PROF - Formação Práticas Experimentais de Matemática para o Ensino Fundamental - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 4
+  },
+  {
+   "codigo": "FPPRES251_2025_T1",
+   "nome": "PROF_REDES - Formação Programas e Políticas da Rede Pública Estadual de Ensino do ES - 2025 - Turma 1",
+   "carga_horaria": 20,
+   "peso": 4
+  },
+  {
+   "codigo": "FOSABEO231_2023_T1",
+   "nome": "Formação SaferNet - Boas Escolhas Online - Rede Estadual - Turma 1 - 2023",
+   "carga_horaria": 40,
+   "peso": 4
+  },
+  {
+   "codigo": "FORGEM251_2025_T1",
+   "nome": "SRE_SEME_ARC_COOR_PAES - Formação em Gestão Educacional por Mentoria - 2025 - Turma 1",
+   "carga_horaria": 31,
+   "peso": 4
+  },
+  {
+   "codigo": "RAI_SE_2022_T1",
+   "nome": "Formação Raízes - Programa Sucesso Escolar - Turma 1 - 2022",
+   "carga_horaria": 120,
+   "peso": 4
+  },
+  {
+   "codigo": "SIG2022_1",
+   "nome": "SIG Aplicado ao Transporte Escolar - Turma 1 - 2022",
+   "carga_horaria": 60,
+   "peso": 3
+  },
+  {
+   "codigo": "FORSUP251_2025_T1",
+   "nome": " ForSuper - Formação Inicial para Supervisores Escolares e Assessores Pedagógicos - 2025 - Turma 1",
+   "carga_horaria": 19,
+   "peso": 3
+  },
+  {
+   "codigo": "FPFEM251_2025_T1",
+   "nome": "PROF_AP_TP - Formação Professor Formador - Equipes Municipais - 2025 - Turma 1",
+   "carga_horaria": 10,
+   "peso": 3
+  },
+  {
+   "codigo": "FOSUPER231_2023_T1",
+   "nome": "ForSuper – Formação para Supervisores Escolares e Assessores Pedagógicos – Aspectos Essenciais de Normas, Procedimentos e Regulação da Educação",
+   "carga_horaria": 38,
+   "peso": 3
+  },
+  {
+   "codigo": "FORSUPC251_2025_T1",
+   "nome": "SUP_AP - Formação Continuada para Supervisores Escolares e Assessores Pedagógicos - ForSuper Continuada - 2025 - Turma 1",
+   "carga_horaria": 20,
+   "peso": 3
+  },
+  {
+   "codigo": "TILPEBS251_2025_T1",
+   "nome": "PTILS - Polo Sul (Cachoeiro de Itapemirim) - Formação de Nivelamento em Libras Básico - Módulo I - 2025 - Turma 1",
+   "carga_horaria": 59,
+   "peso": 3
+  },
+  {
+   "codigo": "FORDIME251_2025_T1",
+   "nome": "DIR - Formação de Diretores Mentores - 2025 - Turma 1",
+   "carga_horaria": 59,
+   "peso": 3
+  },
+  {
+   "codigo": "FORGEI251_2025_T1",
+   "nome": "DIR_CP - Formação Gestão Escolar para a Inovação - 2025 - Turma 1",
+   "carga_horaria": 62,
+   "peso": 3
+  },
+  {
+   "codigo": "GEAFE231_2023_T1",
+   "nome": "Gestão Administrativa e Financeira Escolar - Turma 1 - 2023\t\t\t\t \t\t\t\t\t\t\t",
+   "carga_horaria": 79,
+   "peso": 3
+  },
+  {
+   "codigo": "FORDIRE251_2025_T1",
+   "nome": "DIR_PROF_PE - Formação Inicial de Diretores - Rede Estadual - 2025 - Turma 1",
+   "carga_horaria": 61,
+   "peso": 3
+  },
+  {
+   "codigo": "FOGEPIE231_2023_T1",
+   "nome": "Formação de Gestão Escolar a Partir de Indicadores Educacionais - Turma 1 - 2023",
+   "carga_horaria": 79,
+   "peso": 3
+  },
+  {
+   "codigo": "FORCIGP241_2024_T1",
+   "nome": " Formação Ciclo de Gestão do Paes - Turma 1 - 2024 ",
+   "carga_horaria": 16,
+   "peso": 3
+  },
+  {
+   "codigo": "EFOPERA231_2023_T1",
+   "nome": "Encontro Presencial Formações de Gestão Pedagógica e Recuperação da Aprendizagem\t\t\t\t\t\t",
+   "carga_horaria": 12,
+   "peso": 3
+  },
+  {
+   "codigo": "FNBPS_2021_T1",
+   "nome": "Formação em Noções Básicas para Primeiros Socorros - Turma 1 - 2021",
+   "carga_horaria": 18,
+   "peso": 3
+  },
+  {
+   "codigo": "FCPEI241_2024_T1",
+   "nome": "Formação para Coordenadores Pedagógicos da Educação Integral do ES",
+   "carga_horaria": 40,
+   "peso": 3
+  },
+  {
+   "codigo": "FIFTP251_2025_T1",
+   "nome": "PCA_PROF - Formação Itinerário de Formação Técnica e Profissional - 2025 - Turma 1",
+   "carga_horaria": 13,
+   "peso": 3
+  },
+  {
+   "codigo": "ERDE251_2025_T1",
+   "nome": "DIR_CP_CASF - Equidade Racial  e dados escolares: conceitos, desafios e caminhos para uma gestão transformadora - 2025 - Turma 1",
+   "carga_horaria": 8,
+   "peso": 3
+  },
+  {
+   "codigo": "FDEDPE251_2025_T1",
+   "nome": "PROF_EPT - Docência Empreendedora: Despertando o Potencial Empreendedor -2025 -Turma 1",
+   "carga_horaria": 9,
+   "peso": 3
+  },
+  {
+   "codigo": "PIPAT251_2025_T1",
+   "nome": "PROF_PEDA_CP_DIR - Formação do PIPAT - Projeto Integrador de Pesquisa e Articulação com o Território - 2025 - Turma 1",
+   "carga_horaria": 9,
+   "peso": 3
+  }
+ ],
+ "municipios": [
+  {
+   "municipio": "Serra",
+   "sre": "SRE CARAPINA",
+   "peso": 0.06602
+  },
+  {
+   "municipio": "Cachoeiro de Itapemirim",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.05242
+  },
+  {
+   "municipio": "Vila Velha",
+   "sre": "SRE VILA VELHA",
+   "peso": 0.04431
+  },
+  {
+   "municipio": "Cariacica",
+   "sre": "SRE CARIACICA",
+   "peso": 0.03773
+  },
+  {
+   "municipio": "São Mateus",
+   "sre": "SRE SÃO MATEUS",
+   "peso": 0.03466
+  },
+  {
+   "municipio": "Linhares",
+   "sre": "SRE LINHARES",
+   "peso": 0.03159
+  },
+  {
+   "municipio": "Colatina",
+   "sre": "SRE COLATINA",
+   "peso": 0.02961
+  },
+  {
+   "municipio": "Vitória",
+   "sre": "SRE CARAPINA",
+   "peso": 0.02895
+  },
+  {
+   "municipio": "Guarapari",
+   "sre": "SRE VILA VELHA",
+   "peso": 0.02566
+  },
+  {
+   "municipio": "Barra de São Francisco",
+   "sre": "SRE BARRA DE SÃO FRANCISCO",
+   "peso": 0.02369
+  },
+  {
+   "municipio": "Aracruz",
+   "sre": "SRE LINHARES",
+   "peso": 0.0204
+  },
+  {
+   "municipio": "Montanha",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.01886
+  },
+  {
+   "municipio": "Alegre",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.01799
+  },
+  {
+   "municipio": "Nova Venécia",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.01711
+  },
+  {
+   "municipio": "Santa Maria de Jetibá",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.01711
+  },
+  {
+   "municipio": "Itapemirim",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.01689
+  },
+  {
+   "municipio": "Ecoporanga",
+   "sre": "SRE BARRA DE SÃO FRANCISCO",
+   "peso": 0.01579
+  },
+  {
+   "municipio": "Marataízes",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.01579
+  },
+  {
+   "municipio": "Pinheiros",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.01557
+  },
+  {
+   "municipio": "Sooretama",
+   "sre": "SRE LINHARES",
+   "peso": 0.01535
+  },
+  {
+   "municipio": "Itarana",
+   "sre": "SRE COLATINA",
+   "peso": 0.01535
+  },
+  {
+   "municipio": "Anchieta",
+   "sre": "SRE VILA VELHA",
+   "peso": 0.01448
+  },
+  {
+   "municipio": "Conceição da Barra",
+   "sre": "SRE SÃO MATEUS",
+   "peso": 0.0136
+  },
+  {
+   "municipio": "Itaguaçu",
+   "sre": "SRE COLATINA",
+   "peso": 0.01228
+  },
+  {
+   "municipio": "Pedro Canário",
+   "sre": "SRE SÃO MATEUS",
+   "peso": 0.01228
+  },
+  {
+   "municipio": "Guaçuí",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.01228
+  },
+  {
+   "municipio": "Viana",
+   "sre": "SRE CARIACICA",
+   "peso": 0.01228
+  },
+  {
+   "municipio": "Iúna",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.01184
+  },
+  {
+   "municipio": "Santa Teresa",
+   "sre": "SRE CARAPINA",
+   "peso": 0.01163
+  },
+  {
+   "municipio": "Piúma",
+   "sre": "SRE VILA VELHA",
+   "peso": 0.01097
+  },
+  {
+   "municipio": "Boa Esperança",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.01075
+  },
+  {
+   "municipio": "Ibitirama",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.01075
+  },
+  {
+   "municipio": "Afonso Cláudio",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.01075
+  },
+  {
+   "municipio": "Muniz Freire",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.01075
+  },
+  {
+   "municipio": "São Gabriel da Palha",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.00965
+  },
+  {
+   "municipio": "Vargem Alta",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.00943
+  },
+  {
+   "municipio": "Laranja da Terra",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.00899
+  },
+  {
+   "municipio": "Governador Lindenberg",
+   "sre": "SRE COLATINA",
+   "peso": 0.00877
+  },
+  {
+   "municipio": "Presidente Kennedy",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.00855
+  },
+  {
+   "municipio": "Domingos Martins",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.00855
+  },
+  {
+   "municipio": "Baixo Guandu",
+   "sre": "SRE COLATINA",
+   "peso": 0.00834
+  },
+  {
+   "municipio": "Conceição do Castelo",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.00812
+  },
+  {
+   "municipio": "São José do Calçado",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.0079
+  },
+  {
+   "municipio": "Dores do Rio Preto",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.0079
+  },
+  {
+   "municipio": "Mimoso do Sul",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.00768
+  },
+  {
+   "municipio": "Brejetuba",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.00768
+  },
+  {
+   "municipio": "Mantenópolis",
+   "sre": "SRE BARRA DE SÃO FRANCISCO",
+   "peso": 0.00746
+  },
+  {
+   "municipio": "Pancas",
+   "sre": "SRE COLATINA",
+   "peso": 0.00746
+  },
+  {
+   "municipio": "Jerônimo Monteiro",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.00746
+  },
+  {
+   "municipio": "Vila Valério",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.00746
+  },
+  {
+   "municipio": "Marechal Floriano",
+   "sre": "SRE CARIACICA",
+   "peso": 0.00724
+  },
+  {
+   "municipio": "Alfredo Chaves",
+   "sre": "SRE VILA VELHA",
+   "peso": 0.00724
+  },
+  {
+   "municipio": "Atilio Vivacqua",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.0068
+  },
+  {
+   "municipio": "Água Doce do Norte",
+   "sre": "SRE BARRA DE SÃO FRANCISCO",
+   "peso": 0.0068
+  },
+  {
+   "municipio": "Ibiraçu",
+   "sre": "SRE LINHARES",
+   "peso": 0.00658
+  },
+  {
+   "municipio": "Vila Pavão",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.00658
+  },
+  {
+   "municipio": "Alto Rio Novo",
+   "sre": "SRE COLATINA",
+   "peso": 0.00658
+  },
+  {
+   "municipio": "Castelo",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.00658
+  },
+  {
+   "municipio": "Ibatiba",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.00636
+  },
+  {
+   "municipio": "Jaguaré",
+   "sre": "SRE SÃO MATEUS",
+   "peso": 0.00614
+  },
+  {
+   "municipio": "Marilândia",
+   "sre": "SRE COLATINA",
+   "peso": 0.00592
+  },
+  {
+   "municipio": "Fundão",
+   "sre": "SRE CARAPINA",
+   "peso": 0.00592
+  },
+  {
+   "municipio": "Muqui",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.0057
+  },
+  {
+   "municipio": "Rio Novo do Sul",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.0057
+  },
+  {
+   "municipio": "Iconha",
+   "sre": "SRE CACHOEIRO DE ITAPEMIRIM",
+   "peso": 0.00548
+  },
+  {
+   "municipio": "Mucurici",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.00548
+  },
+  {
+   "municipio": "Divino de São Lourenço",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.00526
+  },
+  {
+   "municipio": "João Neiva",
+   "sre": "SRE LINHARES",
+   "peso": 0.00504
+  },
+  {
+   "municipio": "Ponto Belo",
+   "sre": "SRE NOVA VENÉCIA",
+   "peso": 0.00483
+  },
+  {
+   "municipio": "São Roque do Canaã",
+   "sre": "SRE COLATINA",
+   "peso": 0.00483
+  },
+  {
+   "municipio": "Águia Branca",
+   "sre": "SRE BARRA DE SÃO FRANCISCO",
+   "peso": 0.00483
+  },
+  {
+   "municipio": "Rio Bananal",
+   "sre": "SRE LINHARES",
+   "peso": 0.00483
+  },
+  {
+   "municipio": "Bom Jesus do Norte",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.00483
+  },
+  {
+   "municipio": "Venda Nova do Imigrante",
+   "sre": "SRE AFONSO CLÁUDIO",
+   "peso": 0.00461
+  },
+  {
+   "municipio": "Irupi",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.00417
+  },
+  {
+   "municipio": "São Domingos do Norte",
+   "sre": "SRE COLATINA",
+   "peso": 0.00395
+  },
+  {
+   "municipio": "Santa Leopoldina",
+   "sre": "SRE CARIACICA",
+   "peso": 0.00285
+  },
+  {
+   "municipio": "Apiacá",
+   "sre": "SRE COMENDADORA JUREMA MORETZ SOHN",
+   "peso": 0.00197
+  }
+ ],
+ "sexo": {
+  "FEMININO": 0.8146,
+  "MASCULINO": 0.1854
+ },
+ "escolaridade": {
+  "PÓS-GRADUAÇÃO (LATO SENSO) - COMPLETO": 0.67887,
+  "SUPERIOR - COMPLETO": 0.11637,
+  "PÓS-GRADUAÇÃO (MESTRADO) - COMPLETO": 0.07471,
+  "MÉDIO - COMPLETO": 0.05051,
+  "SUPERIOR - INCOMPLETO": 0.0221,
+  "PÓS-GRADUAÇÃO (LATO SENSO) - INCOMPLETO": 0.01747,
+  "PÓS-GRADUAÇÃO (DOUTORADO) - COMPLETO": 0.0162,
+  "PÓS-GRADUAÇÃO (MESTRADO) - INCOMPLETO": 0.01599,
+  "PÓS-GRADUAÇÃO (DOUTORADO) - INCOMPLETO": 0.00421,
+  "MÉDIO - INCOMPLETO": 0.00253,
+  "FUNDAMENTAL - INCOMPLETO": 0.00084,
+  "FUNDAMENTAL - COMPLETO": 0.00021
+ },
+ "cargo": {
+  "PROFESSOR - MAPB": 0.30002,
+  "PROFESSOR": 0.18018,
+  "PROFESSOR - MAPA": 0.15022,
+  "PEDAGOGO": 0.0841,
+  "PROFESSOR DE EDUCACAO ESPECIAL": 0.04323,
+  "CUIDADOR - APOIO ESCOLAR": 0.0351,
+  "DIRETOR": 0.03231,
+  "COORDENADOR": 0.02333,
+  "COORDENADOR PEDAGOGICO": 0.02097,
+  "FUNCAO DE SECRETARIA ESCOLAR": 0.01776,
+  "OUTRO": 0.01562,
+  "AGENTE DE SUPORTE EDUCACIONAL - ASE": 0.01391,
+  "PROFESSOR DE EDUCACAO PROFISSIONAL E TECNOLOGICA": 0.01327,
+  "AUXILIAR DE EDUCACAO INFANTIL": 0.01305,
+  "TECNICO PEDAGOGICO": 0.00856,
+  "SUPERVISOR ESCOLAR": 0.00621,
+  "FUNCAO ADMINISTRATIVA": 0.00599,
+  "TRADUTOR E INTERPRETE DE LIBRAS": 0.00514,
+  "ESTAGIARIO": 0.00428,
+  "MONITOR": 0.00407,
+  "PSICOLOGO": 0.00385,
+  "PROFESSOR COORDENADOR DE AREA - PCA": 0.00364,
+  "COORDENADOR ADMINSTRATIVO DE SECRETARIA E FINANCEIRO - CASF": 0.00257,
+  "TECNICO DO MUNICIPIO": 0.00235,
+  "PROFESSOR - PFA": 0.00235,
+  "TECNICO DO PAES": 0.00235
+ },
+ "funcao_por_cargo": {
+  "AGENTE DE SUPORTE EDUCACIONAL - ASE": {
+   "AGENTE DE SUPORTE EDUCACIONAL - ASE": 0.61538,
+   "COORDENADOR ADMINSTRATIVO DE SECRETARIA E FINANCEIRO - CASF": 0.29231,
+   "OUTRO": 0.03077,
+   "ASSESSOR": 0.03077
+  },
+  "ANALISTA": {
+   "PSICOLOGO": 1.0
+  },
+  "ASSESSOR DO REGIME DE COLABORACAO": {
+   "ASSESSOR": 1.0
+  },
+  "ASSESSOR PEDAGOGICO": {
+   "ASSESSOR": 0.33333,
+   "PEDAGOGO": 0.22222,
+   "OUTRO": 0.22222,
+   "SUPERVISOR ESCOLAR": 0.11111,
+   "ASSESSOR PEDAGOGICO": 0.11111
+  },
+  "ASSISTENTE SOCIAL": {
+   "ASSISTENTE SOCIAL": 1.0
+  },
+  "AUXILIAR DE EDUCACAO INFANTIL": {
+   "AUXILIAR DE EDUCACAO INFANTIL": 0.81967,
+   "AGENTE DE SUPORTE EDUCACIONAL - ASE": 0.04918,
+   "CUIDADOR - APOIO ESCOLAR": 0.04918
+  },
+  "COORDENADOR": {
+   "COORDENADOR": 0.89908,
+   "PROFESSOR": 0.02752,
+   "FUNCAO ADMINISTRATIVA": 0.02752
+  },
+  "COORDENADOR ADMINSTRATIVO DE SECRETARIA E FINANCEIRO - CASF": {
+   "COORDENADOR ADMINSTRATIVO DE SECRETARIA E FINANCEIRO - CASF": 0.58333,
+   "AGENTE DE SUPORTE EDUCACIONAL - ASE": 0.33333,
+   "FUNCAO ADMINISTRATIVA": 0.08333
+  },
+  "COORDENADOR PEDAGOGICO": {
+   "COORDENADOR PEDAGOGICO": 0.76531,
+   "PEDAGOGO": 0.07143,
+   "PROFESSOR": 0.03061,
+   "ASSESSOR": 0.03061,
+   "COORDENADOR": 0.02041,
+   "DIRETOR": 0.02041,
+   "COORDENADOR ADMINSTRATIVO DE SECRETARIA E FINANCEIRO - CASF": 0.02041
+  },
+  "CUIDADOR - APOIO ESCOLAR": {
+   "CUIDADOR - APOIO ESCOLAR": 0.89634,
+   "FUNCAO RELACIONADA A EDUCACAO ESPECIAL": 0.02439,
+   "AUXILIAR DE EDUCACAO INFANTIL": 0.02439
+  },
+  "DIRETOR": {
+   "DIRETOR": 0.94702,
+   "PROFESSOR": 0.02649
+  },
+  "ESTAGIARIO": {
+   "ESTAGIARIO": 0.65,
+   "PROFESSOR": 0.1,
+   "AUXILIAR DE EDUCACAO INFANTIL": 0.1,
+   "CUIDADOR - APOIO ESCOLAR": 0.1,
+   "CUIDADOR": 0.05
+  },
+  "ESTUDANTE": {
+   "ESTUDANTE": 0.5,
+   "OUTRO": 0.5
+  },
+  "FUNCAO ADMINISTRATIVA": {
+   "FUNCAO ADMINISTRATIVA": 0.5,
+   "OUTRO": 0.14286,
+   "AGENTE DE SUPORTE EDUCACIONAL - ASE": 0.14286,
+   "AUXILIAR DE EDUCACAO INFANTIL": 0.07143,
+   "FUNCAO DE SECRETARIA ESCOLAR": 0.07143,
+   "CUIDADOR - APOIO ESCOLAR": 0.03571,
+   "COORDENADOR": 0.03571
+  },
+  "FUNCAO DE SECRETARIA ESCOLAR": {
+   "FUNCAO DE SECRETARIA ESCOLAR": 0.49398,
+   "AGENTE DE SUPORTE EDUCACIONAL - ASE": 0.12048,
+   "CUIDADOR - APOIO ESCOLAR": 0.07229,
+   "FUNCAO RELACIONADA A EDUCACAO ESPECIAL": 0.07229,
+   "PROFESSOR": 0.03614,
+   "MONITOR": 0.03614,
+   "FUNCAO ADMINISTRATIVA": 0.0241,
+   "TECNICO PEDAGOGICO": 0.0241,
+   "PROFESSOR DE EDUCACAO ESPECIAL": 0.0241,
+   "OUTRO": 0.0241,
+   "COORDENADOR DO PAES": 0.0241
+  },
+  "FUNCAO DE TECNOLOGIA DA INFORMACAO": {
+   "FUNCAO DE TECNOLOGIA DA INFORMACAO": 1.0
+  },
+  "GERENTE": {
+   "FUNCAO ADMINISTRATIVA": 0.5,
+   "GERENTE": 0.5
+  },
+  "MONITOR": {
+   "MONITOR": 0.78947,
+   "CUIDADOR - APOIO ESCOLAR": 0.05263,
+   "AUXILIAR DE EDUCACAO INFANTIL": 0.05263,
+   "FUNCAO RELACIONADA A EDUCACAO ESPECIAL": 0.05263,
+   "FUNCAO ADMINISTRATIVA": 0.05263
+  },
+  "NUTRICIONISTA": {
+   "NUTRICIONISTA": 1.0
+  },
+  "OUTRO": {
+   "OUTRO": 0.61644,
+   "AUXILIAR DE EDUCACAO INFANTIL": 0.09589,
+   "CUIDADOR - APOIO ESCOLAR": 0.05479,
+   "PROFESSOR": 0.0411,
+   "PEDAGOGO": 0.0274,
+   "FUNCAO ADMINISTRATIVA": 0.0274
+  },
+  "PEDAGOGO": {
+   "PEDAGOGO": 0.67939,
+   "PROFESSOR": 0.12977,
+   "COORDENADOR PEDAGOGICO": 0.04835,
+   "TECNICO PEDAGOGICO": 0.0458,
+   "OUTRO": 0.03562
+  },
+  "PROFESSOR": {
+   "PROFESSOR": 0.84323,
+   "PROFESSOR - MAPB": 0.03919,
+   "DIRETOR": 0.02613
+  },
+  "PROFESSOR - MAPA": {
+   "PROFESSOR": 0.86467,
+   "PROFESSOR DE EDUCACAO ESPECIAL": 0.04558,
+   "PROFESSOR - MAPB": 0.03134
+  },
+  "PROFESSOR - MAPB": {
+   "PROFESSOR": 0.78887,
+   "PROFESSOR - MAPB": 0.09629,
+   "PROFESSOR COORDENADOR DE AREA - PCA": 0.03138
+  },
+  "PROFESSOR - PFA": {
+   "PROFESSOR - PFA": 0.72727,
+   "PROFESSOR": 0.27273
+  },
+  "PROFESSOR COORDENADOR DE AREA - PCA": {
+   "PROFESSOR COORDENADOR DE AREA - PCA": 0.47059,
+   "PROFESSOR": 0.41176,
+   "PROFESSOR - MAPB": 0.11765
+  },
+  "PROFESSOR DE EDUCACAO ESPECIAL": {
+   "PROFESSOR DE EDUCACAO ESPECIAL": 0.42574,
+   "PROFESSOR": 0.41089,
+   "FUNCAO RELACIONADA A EDUCACAO ESPECIAL": 0.08416
+  },
+  "PROFESSOR DE EDUCACAO PROFISSIONAL E TECNOLOGICA": {
+   "PROFESSOR": 0.83871,
+   "PROFESSOR COORDENADOR DE AREA - PCA": 0.09677,
+   "PROFESSOR DE EDUCACAO PROFISSIONAL E TECNOLOGICA": 0.03226
+  },
+  "PSICOLOGO": {
+   "PSICOLOGO": 0.77778,
+   "TECNICO PEDAGOGICO": 0.11111,
+   "CUIDADOR - APOIO ESCOLAR": 0.05556,
+   "TECNICO DO PROETI": 0.05556
+  },
+  "SECRETARIO DE EDUCACAO": {
+   "TECNICO PEDAGOGICO": 1.0
+  },
+  "SUPERVISOR ESCOLAR": {
+   "SUPERVISOR ESCOLAR": 0.82759,
+   "PEDAGOGO": 0.10345,
+   "FUNCAO ADMINISTRATIVA": 0.03448,
+   "ASSESSOR": 0.03448
+  },
+  "TECNICO DO MUNICIPIO": {
+   "ASSISTENTE SOCIAL": 0.45455,
+   "TECNICO PEDAGOGICO": 0.27273,
+   "COORDENADOR DO PAES": 0.09091,
+   "PSICOLOGO": 0.09091,
+   "FUNCAO ADMINISTRATIVA": 0.09091
+  },
+  "TECNICO DO PAES": {
+   "TECNICO DO PAES": 0.45455,
+   "PROFESSOR": 0.27273,
+   "TECNICO PEDAGOGICO": 0.18182,
+   "COORDENADOR DO PAES": 0.09091
+  },
+  "TECNICO PEDAGOGICO": {
+   "TECNICO PEDAGOGICO": 0.525,
+   "PEDAGOGO": 0.175,
+   "PROFESSOR": 0.1,
+   "FUNCAO ADMINISTRATIVA": 0.05,
+   "OUTRO": 0.05,
+   "DIRETOR": 0.025,
+   "TCGP": 0.025,
+   "TECNICO DO PAES": 0.025,
+   "COORDENADOR": 0.025
+  },
+  "TRADUTOR E INTERPRETE DE LIBRAS": {
+   "TRADUTOR E INTERPRETE DE LIBRAS": 0.54167,
+   "PROFESSOR": 0.25,
+   "PROFESSOR DE EDUCACAO ESPECIAL": 0.16667,
+   "FUNCAO RELACIONADA A EDUCACAO ESPECIAL": 0.04167
+  }
+ },
+ "tipo_instituicao": {
+  "REDE ESTADUAL": 0.5703,
+  "REDE MUNICIPAL": 0.39996,
+  "SRE": 0.02097,
+  "SEDU CENTRAL": 0.00278,
+  "REDE PRIVADA": 0.00257,
+  "OUTRO": 0.00193,
+  "SEME": 0.0015
+ }
+}
