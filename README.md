@@ -16,9 +16,9 @@ python dados_sinteticos/gerar_dados_sinteticos.py --saida .
 
 **Limitações dos dados sintéticos**
 * Não reproduzem os resultados numéricos do artigo (191.412 inscrições, percentuais das personas, IEEP). Servem para executar e inspecionar o código, não para inferência.
-* A estrutura de clusters obtida difere da publicada. Como os notebooks 05, 07 e 08 atribuem os nomes das personas pelo número do cluster, os rótulos podem sair trocados. É um defeito conhecido do código, não dos dados.
+* A estrutura de clusters obtida difere da publicada. Como os notebooks 05, 07 e 08 atribuem os nomes das personas pelo número do cluster, os rótulos podem sair trocados. É uma limitação do código, não dos dados.
 * Os arquivos mantêm o sufixo `_anonimizadas`/`_anonimizados` apenas por compatibilidade com os notebooks; o conteúdo é sintético.
-* As saídas salvas nos notebooks vêm da execução com a base real. Identificadores individuais foram mascarados (`MASCARADO_NNNNNN`) e datas/horas de amostras foram arredondadas para o mês; os demais valores e agregados correspondem aos relatados no artigo.
+* As saídas salvas nos notebooks correspondem à execução com a base original e aos valores relatados no artigo. Nelas, identificadores individuais aparecem mascarados (`MASCARADO_NNNNNN`) e datas/horas de amostras aparecem agregadas por mês.
 
 Detalhes do método e da validação (fidelidade estrutural e testes de privacidade): [`dados_sinteticos/README_DADOS_SINTETICOS.md`](dados_sinteticos/README_DADOS_SINTETICOS.md).
 
